@@ -3,3 +3,8 @@ Hi, i'm Max. I recently completed my work as a post-doctoral research associate 
 My interests are in the use of data analytics and computation to advance human medical research for the improvement of healthcare for all. 
 
 ORCID: www.orcid.org/0000-0002-9662-6889
+
+
+Most recent work includes scRNAseq analysis of the amniotic fluid (www.nature.com/articles/s41591-024-02807-z/):
+
+![alt text](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41591-024-02807-z/MediaObjects/41591_2024_2807_Fig1_HTML.png)
